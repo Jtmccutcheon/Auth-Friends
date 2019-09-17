@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.friend-card {
+  text-align: left;
+  border: 1px solid black;
+}
+
+a {
+  padding: 1rem;
+}
